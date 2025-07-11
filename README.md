@@ -8,7 +8,9 @@ I'm a passionate student and digital creative based in India, exploring the inte
 - 💡 Interests: Fashion Tech, Cinematic Visuals, and AI-driven art
 - 💼 Freelance Designer | Print-on-Demand Enthusiast
 - 💬 Ask me about Canva, Figma, or starting your design journey
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&size=100&pause=1000&color=violet&center=true&vCenter=true&width=2000&height=200&lines=WEB+DEVELOPER;UI%2FUX+DESIGNER;DESIGN+ENTHUSIAST;CODE%2BAESTHETICS)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=100&pause=1000&color=800020&center=true&vCenter=true&width=2000&height=200&lines=WEB+DEVELOPER;UI%2FUX+DESIGNER;DESIGN+ENTHUSIAST;CODE%2BAESTHETICS)](https://git.io/typing-svg)
 
 ---
 
