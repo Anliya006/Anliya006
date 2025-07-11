@@ -31,7 +31,7 @@ I'm a passionate student and digital creative based in India, exploring the inte
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anliya-jojo-805138328/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aannliya_/)
   
-  Feel free to reach out if you want to collaborate on cool tech projects or just chat about tech! 😊
+  Open to collabs, ideas, or just a good design-tech convo — let’s connect! 😊
 
 
 ### 🛠️ Tech & Tools
